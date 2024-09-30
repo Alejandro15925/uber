@@ -35951,6 +35951,48 @@
             "tiempo_estimado": "14 mins away, at 1:17 PM",
             "descripcion": "Special assistance from certified drivers",
             "precio": 71.18
+        },
+        {
+            "timestamp": "2024-09-30 13:18:49",
+            "tipo_viaje": "UberX4",
+            "tiempo_estimado": "10 mins away, at 1:40 PM",
+            "descripcion": "Affordable, everyday rides",
+            "precio": 73.18
+        },
+        {
+            "timestamp": "2024-09-30 13:18:49",
+            "tipo_viaje": "Uber Planet4",
+            "tiempo_estimado": "10 mins away, at 1:40 PM",
+            "descripcion": "Part of your fare will help offset your carbon footprint",
+            "precio": 74.97
+        },
+        {
+            "timestamp": "2024-09-30 13:18:49",
+            "tipo_viaje": "Moto1",
+            "tiempo_estimado": "N/A mins away, at N/A",
+            "descripcion": "Affordable motorcycle rides",
+            "precio": 49.04
+        },
+        {
+            "timestamp": "2024-09-30 13:18:49",
+            "tipo_viaje": "Comfort4",
+            "tiempo_estimado": "11 mins away, at 1:41 PM",
+            "descripcion": "Bigger cars, better experience",
+            "precio": 97.94
+        },
+        {
+            "timestamp": "2024-09-30 13:18:49",
+            "tipo_viaje": "UberXL6",
+            "tiempo_estimado": "15 mins away, at 1:45 PM",
+            "descripcion": "Spacious rides for groups up to 6",
+            "precio": 148.22
+        },
+        {
+            "timestamp": "2024-09-30 13:18:49",
+            "tipo_viaje": "Assist4",
+            "tiempo_estimado": "N/A mins away, at N/A",
+            "descripcion": "Special assistance from certified drivers",
+            "precio": 73.18
         }
     ]
 }
