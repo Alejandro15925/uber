@@ -18444,6 +18444,55 @@
             "tiempo_estimado": "N/A mins away, at N/A",
             "descripcion": "Special assistance from certified drivers",
             "precio": 97.33
+        },
+        {
+            "timestamp": "2024-09-29 20:41:01",
+            "tipo_viaje": "Uber Espera y Ahorra4",
+            "tiempo_estimado": "11 mins away, at 9:15 PM",
+            "descripcion": "Save by waiting",
+            "precio": 95.48
+        },
+        {
+            "timestamp": "2024-09-29 20:41:01",
+            "tipo_viaje": "UberX4",
+            "tiempo_estimado": "10 mins away, at 9:03 PM",
+            "descripcion": "Affordable, everyday rides",
+            "precio": 103.5
+        },
+        {
+            "timestamp": "2024-09-29 20:41:01",
+            "tipo_viaje": "UberXL6",
+            "tiempo_estimado": "N/A mins away, at N/A",
+            "descripcion": "Spacious rides for groups up to 6",
+            "precio": 178.55
+        },
+        {
+            "timestamp": "2024-09-29 20:41:01",
+            "tipo_viaje": "Uber Planet4",
+            "tiempo_estimado": "10 mins away, at 9:03 PM",
+            "descripcion": "Part of your fare will help offset your carbon footprint",
+            "precio": 105.77
+        },
+        {
+            "timestamp": "2024-09-29 20:41:02",
+            "tipo_viaje": "Moto1",
+            "tiempo_estimado": "N/A mins away, at N/A",
+            "descripcion": "Affordable motorcycle rides",
+            "precio": 28.22
+        },
+        {
+            "timestamp": "2024-09-29 20:41:02",
+            "tipo_viaje": "Comfort4",
+            "tiempo_estimado": "11 mins away, at 9:03 PM",
+            "descripcion": "Bigger cars, better experience",
+            "precio": 118.35
+        },
+        {
+            "timestamp": "2024-09-29 20:41:02",
+            "tipo_viaje": "Assist4",
+            "tiempo_estimado": "N/A mins away, at N/A",
+            "descripcion": "Special assistance from certified drivers",
+            "precio": 103.5
         }
     ]
 }
