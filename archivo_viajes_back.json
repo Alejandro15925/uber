@@ -21398,6 +21398,48 @@
             "tiempo_estimado": "N/A mins away, at N/A",
             "descripcion": "Special assistance from certified drivers",
             "precio": 109.52
+        },
+        {
+            "timestamp": "2024-09-30 04:50:47",
+            "tipo_viaje": "Uber Espera y Ahorra4",
+            "tiempo_estimado": "16 mins away, at 5:23 AM",
+            "descripcion": "Save by waiting",
+            "precio": 123.05
+        },
+        {
+            "timestamp": "2024-09-30 04:50:47",
+            "tipo_viaje": "UberX4",
+            "tiempo_estimado": "15 mins away, at 5:15 AM",
+            "descripcion": "Affordable, everyday rides",
+            "precio": 144.78
+        },
+        {
+            "timestamp": "2024-09-30 04:50:47",
+            "tipo_viaje": "UberXL6",
+            "tiempo_estimado": "N/A mins away, at N/A",
+            "descripcion": "Spacious rides for groups up to 6",
+            "precio": 205.45
+        },
+        {
+            "timestamp": "2024-09-30 04:50:47",
+            "tipo_viaje": "Uber Planet4",
+            "tiempo_estimado": "15 mins away, at 5:15 AM",
+            "descripcion": "Part of your fare will help offset your carbon footprint",
+            "precio": 147.01
+        },
+        {
+            "timestamp": "2024-09-30 04:50:47",
+            "tipo_viaje": "Comfort4",
+            "tiempo_estimado": "N/A mins away, at N/A",
+            "descripcion": "Bigger cars, better experience",
+            "precio": 153.68
+        },
+        {
+            "timestamp": "2024-09-30 04:50:47",
+            "tipo_viaje": "Assist4",
+            "tiempo_estimado": "N/A mins away, at N/A",
+            "descripcion": "Special assistance from certified drivers",
+            "precio": 144.78
         }
     ]
 }
